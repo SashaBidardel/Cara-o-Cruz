@@ -1,0 +1,11 @@
+.boton{
+    background-color: blue;
+    width: 20%;
+    height: 20%;
+    border-radius: 6px;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
