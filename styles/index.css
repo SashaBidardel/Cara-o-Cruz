@@ -1,11 +1,36 @@
 .boton{
     background-color: blue;
     width: 20%;
-    height: 20%;
+    height: 80%;
     border-radius: 6px;
+    
+  
 }
-body{
+section{
     display: flex;
-    align-items: center;
+    justify-content: center;
+}
+
+p{
+   display: flex;
+   justify-content: center;
+   
+    
+}
+
+
+body{
+    margin: auto;
+    
+}
+label{
+    display: flex;
+   
+    justify-content: center;
+    font-size: x-large;
+}
+section{
+    
     flex-direction: column;
+    align-items: center;
 }
