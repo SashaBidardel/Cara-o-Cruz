@@ -1,7 +1,4 @@
-function valor()
-{
-    return Math.random();
-}
+
 
 function caraOCruz()
 { 

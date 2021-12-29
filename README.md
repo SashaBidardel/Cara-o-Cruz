@@ -1,0 +1,1 @@
+Ejercicio consistente en hacer un programa que simule el juego del cara o cruz.Se utiliza HTML5,CSS3 y javascrip
